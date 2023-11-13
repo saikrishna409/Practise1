@@ -3,7 +3,7 @@ public class FirstPractise {
 //comment1
 	private int num;
 	private String name;
-	
+	private int price;
 	
 	public int getNum() {
 		return num;
