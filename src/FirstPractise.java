@@ -25,6 +25,16 @@ public class FirstPractise {
 	}
 
 
+	public int getPrice() {
+		return price;
+	}
+
+
+	public void setPrice(int price) {
+		this.price = price;
+	}
+
+
 	@Override
 	public String toString() {
 		return "FirstPratise [num=" + num + ", name=" + name + "]";
