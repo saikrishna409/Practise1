@@ -9,6 +9,8 @@ public class test {
 	public static void main(String[] args) {
 		// Test Class
 		testPurpose();
+		Zookie zookie = new Zookie();
+		System.out.println(zookie);
 	}
 
 }
